@@ -207,19 +207,24 @@ def create_model(total_words, max_sequence_len):
 
 ## OUTPUT
 ### 1. fit_vectorizer output
-![Screenshot 2024-11-11 111054](https://github.com/user-attachments/assets/5aba9d4f-e3ad-4ead-bcff-77d4a9c98881)
+![image](https://github.com/user-attachments/assets/7ed5b2ca-05ad-4fd0-9664-1da6862860ee)
+
 
 ### 2. n_grams_seqs output
-![Screenshot 2024-11-11 111101](https://github.com/user-attachments/assets/921e513f-0efd-4597-8456-2a150e95dea2)
+![image](https://github.com/user-attachments/assets/8539f4a2-d708-4069-bae9-59e6a98d3f87)
+
 
 ### 3. pad_seqs output
-![Screenshot 2024-11-11 111108](https://github.com/user-attachments/assets/8ab347f6-7b4e-4da3-a5f5-c73397475900)
+![image](https://github.com/user-attachments/assets/8ba1adcc-c5e9-445a-8889-9e352b387033)
+
 
 ### 4. features_and_labels_dataset output
-![Screenshot 2024-11-11 111114](https://github.com/user-attachments/assets/e152cd0d-3ca7-4aa0-9aa8-3d5237fe4f64)
+![image](https://github.com/user-attachments/assets/3601fea6-58bd-49c3-8783-f202b32a59cb)
+
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2024-11-11 111336](https://github.com/user-attachments/assets/33243212-4ee8-4b57-8222-4b23bf99e513)
+![image](https://github.com/user-attachments/assets/5737da16-e2f0-4fd8-bf4c-827ce1d3430b)
+
 
 ### 6. Sample Text Prediction
 ![Screenshot 2024-11-11 111343](https://github.com/user-attachments/assets/a8c1788c-fa6f-4593-b946-9551d7825b8a)
