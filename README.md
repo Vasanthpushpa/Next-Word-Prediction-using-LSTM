@@ -227,7 +227,8 @@ def create_model(total_words, max_sequence_len):
 
 
 ### 6. Sample Text Prediction
-![Screenshot 2024-11-11 111343](https://github.com/user-attachments/assets/a8c1788c-fa6f-4593-b946-9551d7825b8a)
+![image](https://github.com/user-attachments/assets/79540537-1f44-47e4-b38f-ff39b328e51a)
+
 
 ## RESULT
 Thus, a trained text generator model capable of predicting the next word in a sequence from the given corpus is successfully implelemted.
